@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Context-Persistence/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Memory-Context-Persistence?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Context-Persistence/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Memory-Context-Persistence?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Context-Persistence/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Memory-Context-Persistence?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Context-Persistence/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Agent-Memory-Context-Persistence?color=blue" alt="Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Context-Persistence/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -83,9 +83,9 @@ Below is the comparative breakdown of leading managed SaaS platforms and hosted 
 
 Curated open-source projects providing persistent memory, temporal knowledge graphs, session cache backends, and MCP memory servers for AI agents and coding assistants. 
 
-> *Each repository includes a live social star badge linking directly to that project's GitHub stargazers page. Sorted by star counts in descending order.*
+> *Each repository includes a live social Stars_Badge linking directly to that project's GitHub stargazers page. Sorted by Stars_Counts in descending order.*
 
-| Repository | GitHub Stars 🌟 | License ⚖️ | Category & Key Agent Memory Capabilities 💡 |
+| Repository | GitHub_Stars 🌟 | License ⚖️ | Category & Key Agent Memory Capabilities 💡 |
 | :--- | :--- | :--- | :--- |
 | **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** | [![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=social&color=white)](https://github.com/thedotmack/claude-mem/stargazers) | `MIT` | **Coding Agent Memory**: Open-source persistent memory MCP plugin for Claude Code that captures tool-use observations, compresses them into semantic summaries, and injects context across sessions. |
 | **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** | [![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social&color=white)](https://github.com/modelcontextprotocol/servers/stargazers) | `MIT` | **MCP Memory Engine**: Official Model Context Protocol memory server implementation enabling coding agents to persist entities, relations, and observations locally as a knowledge graph. |
@@ -132,7 +132,7 @@ Contributions are warmly welcome! Help keep this ecosystem comprehensive, accura
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-my-memory-tool`).
 3. 📝 **Add or edit entries in `README.md`**:
    - For **SaaS Products**: Ensure all columns are filled (`Product`, `Company Scale`, `Pricing starting tier`, `Free Tier Limits`, and `Specialization`). Include specific pricing numbers rather than generic descriptions.
-   - For **Open-Source Projects**: Include the repository link, live star badge (`https://img.shields.io/github/stars/...`), license badge, and a 1–2 sentence description of memory architecture. Keep the list sorted by star count.
+   - For **Open-Source Projects**: Include the repository link, live Stars_Badge (`https://img.shields.io/github/stars/...`), license badge, and a 1–2 sentence description of memory architecture. Keep the list sorted by Stars_Count.
 4. 🔍 **Verify markdown formatting** and ensure all links are valid.
 5. 🚀 **Commit and push** your changes, then open a Pull Request.
 
